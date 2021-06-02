@@ -1,11 +1,4 @@
 
-/******************************************
-* Student name: Ronit Shternfeld
-* Student ID: 316590512
-* Course Exercise Group: 05
-* Exercise name: ex6
-******************************************/
-
 #include <stdio.h>
 #include "sorting.h"
 #include "person.h"
